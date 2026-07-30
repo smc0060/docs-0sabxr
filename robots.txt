@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-m97pm0.pulaucuan.com/sitemap.xml
